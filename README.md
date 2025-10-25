@@ -2,7 +2,7 @@
 💻 BS Cyber Security Student at HITEC University  
 🔒 Passionate about Ethical Hacking, Kali Linux & Java  
 🌱 Currently learning Network Reconnaissance (Nmap)  
-📫 How to reach me: zarynkhan55@gmail.com
+📫 How to reach me: ayeshamaankhan@gmail.com
 ⚙️ Learning Java & Python  
 🎯 Goal: Become a Professional Penetration Tester  
 
@@ -23,7 +23,7 @@
 ---
 
 ### 🌐 Connect with Me
-📫 **Email:** zarynkhan55@gmail.com 
+📫 **Email:** ayeshamaankhan@gmail.com
  
 🐙 **GitHub:** [HelinaKhan](https://github.com/HelinaKhan)
 
